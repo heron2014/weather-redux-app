@@ -7,7 +7,9 @@ Weather app build in React and Redux based on tutorial on [Redux](https://www.ud
 ![weather-redux-app](readme-img/components-wetaher-redux.png)
 
 
+### Redux cycle
 
+![redux flow](readme-img/reducer-action.png)
 
 ### References
 
